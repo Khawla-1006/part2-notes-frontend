@@ -58,3 +58,4 @@ const notesToShow = showAll
 }
 
 export default App
+
